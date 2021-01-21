@@ -1,1 +1,1 @@
-# Here I save the solutions to problem that I have solved in LeetCode
+# Here I save the solutions to problems that I have solved in LeetCode
